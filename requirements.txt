@@ -1,4 +1,3 @@
-Streamlit/
-├─ Efforts.py            # <— deine Streamlit-App (oder app.py)
-├─ requirements.txt
-└─ README.md             # optional
+streamlit
+pandas
+openpyxl
